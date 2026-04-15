@@ -1,0 +1,31 @@
+rfi_id,package,station,subsystem_type,activity_type,contractor,submitted_date,sla_deadline,closed_date,status,result,remarks
+RFI-001,PKG-A,Station-1,Structural,Concrete Pouring,ABC Corp,2025-01-10,2025-01-20,2025-01-18,Closed,Approved,Good quality concrete work observed
+RFI-002,PKG-A,Station-1,Electrical,Cabling,XYZ Infra,2025-01-12,2025-01-22,2025-01-25,Closed,Approved,Cable routing completed with minor rework
+RFI-003,PKG-B,Station-2,Structural,Rebar Installation,ABC Corp,2025-01-15,2025-01-25,,Open,Rejected,Rebar spacing not as per drawing specification
+RFI-004,PKG-A,Station-1,Mechanical,HVAC Duct,DEF Build,2025-02-01,2025-02-10,2025-02-09,Closed,Approved,Duct alignment verified and approved
+RFI-005,PKG-B,Station-2,Structural,Concrete Pouring,XYZ Infra,2025-02-05,2025-02-15,2025-02-20,Closed,Rejected,Concrete strength test failed below threshold
+RFI-006,PKG-C,Station-3,Electrical,Cabling,GHI Works,2025-02-10,2025-02-20,,Open,Rejected,Cable tray not properly grounded
+RFI-007,PKG-A,Station-1,Structural,Waterproofing,ABC Corp,2025-02-15,2025-02-25,2025-02-24,Closed,Approved,Waterproofing membrane properly applied
+RFI-008,PKG-B,Station-2,Mechanical,Fire Suppression,DEF Build,2025-03-01,2025-03-10,2025-03-12,Closed,Rejected,Sprinkler spacing exceeds code maximum
+RFI-009,PKG-C,Station-3,Structural,Rebar Installation,GHI Works,2025-03-05,2025-03-15,,Open,Rejected,Cover block missing at multiple locations
+RFI-010,PKG-A,Station-4,Electrical,Lighting,ABC Corp,2025-03-10,2025-03-20,2025-03-19,Closed,Approved,Emergency lighting installation verified
+RFI-011,PKG-B,Station-2,Structural,Concrete Pouring,XYZ Infra,2025-03-15,2025-03-25,,Open,Rejected,Honeycombing found in concrete pour
+RFI-012,PKG-C,Station-3,Electrical,Cabling,GHI Works,2025-03-20,2025-03-30,2025-04-02,Closed,Rejected,Fire retardant cable not used as specified
+RFI-013,PKG-A,Station-1,Structural,Formwork,ABC Corp,2025-04-01,2025-04-10,2025-04-09,Closed,Approved,Formwork alignment within tolerance
+RFI-014,PKG-B,Station-5,Mechanical,HVAC Duct,DEF Build,2025-04-05,2025-04-15,2025-04-14,Closed,Approved,Duct pressure test passed
+RFI-015,PKG-C,Station-3,Structural,Rebar Installation,GHI Works,2025-04-10,2025-04-20,,Open,Rejected,Rebar diameter mismatch with approved drawing
+RFI-016,PKG-A,Station-4,Electrical,Panel Installation,XYZ Infra,2025-04-15,2025-04-25,2025-04-24,Closed,Approved,Distribution panel installed correctly
+RFI-017,PKG-B,Station-2,Structural,Concrete Pouring,XYZ Infra,2025-05-01,2025-05-10,,Open,Rejected,Cube test results below required strength
+RFI-018,PKG-C,Station-6,Mechanical,Fire Suppression,DEF Build,2025-05-05,2025-05-15,2025-05-14,Closed,Approved,Fire suppression system tested and functional
+RFI-019,PKG-A,Station-1,Structural,Waterproofing,ABC Corp,2025-05-10,2025-05-20,2025-05-19,Closed,Approved,Joint sealant application satisfactory
+RFI-020,PKG-B,Station-5,Electrical,Earthing,GHI Works,2025-05-15,2025-05-25,2025-05-28,Closed,Rejected,Earth resistance value exceeds permissible limit
+RFI-021,PKG-C,Station-3,Structural,Concrete Pouring,GHI Works,2025-06-01,2025-06-10,,Open,Rejected,Segregation observed in fresh concrete pour
+RFI-022,PKG-A,Station-4,Mechanical,Plumbing,ABC Corp,2025-06-05,2025-06-15,2025-06-13,Closed,Approved,Pipe gradient and joint testing passed
+RFI-023,PKG-B,Station-2,Electrical,Cabling,XYZ Infra,2025-06-10,2025-06-20,,Open,Rejected,Cable pulling tension exceeded manufacturer spec
+RFI-024,PKG-C,Station-6,Structural,Formwork,DEF Build,2025-06-15,2025-06-25,2025-06-24,Closed,Approved,Shutter surface treatment acceptable
+RFI-025,PKG-A,Station-1,Electrical,Lighting,ABC Corp,2025-07-01,2025-07-10,2025-07-09,Closed,Approved,Lux level measurements within design range
+RFI-026,PKG-B,Station-5,Structural,Rebar Installation,GHI Works,2025-07-05,2025-07-15,2025-07-14,Closed,Approved,Rebar lap length and cover verified correctly
+RFI-027,PKG-C,Station-3,Mechanical,HVAC Duct,DEF Build,2025-07-10,2025-07-20,,Open,Rejected,Duct insulation thickness below specification
+RFI-028,PKG-A,Station-4,Structural,Concrete Pouring,XYZ Infra,2025-07-15,2025-07-25,2025-07-24,Closed,Approved,Concrete slump within acceptable range
+RFI-029,PKG-B,Station-2,Structural,Waterproofing,ABC Corp,2025-08-01,2025-08-10,,Open,Rejected,Ponding test revealed water seepage through membrane
+RFI-030,PKG-C,Station-6,Electrical,Panel Installation,GHI Works,2025-08-05,2025-08-15,2025-08-14,Closed,Approved,Panel labeling and circuit identification complete
